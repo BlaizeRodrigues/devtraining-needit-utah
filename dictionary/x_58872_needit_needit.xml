@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="ed2418900781021066c4fa9e7c1ed0db" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element label="New Field 1" max_length="40" name="new_field_1" type="integer"/>
+        <element label="New Field 2" max_length="40" name="new_field_2" type="integer"/>
+        <element label="New Integer" max_length="40" name="u_integer_1" type="integer"/>
+    </element>
+</database>
